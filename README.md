@@ -1,4 +1,4 @@
-# Sales & Logistics Optimization Report
+# Sales & Logistics Optimization
 
 ## Overview
 This project focuses on optimizing sales and logistics operations by analyzing raw data, cleaning it, and extracting actionable insights. The goal is to improve business performance through data-driven decision-making.
